@@ -10,7 +10,7 @@
   "keywords": [],
   "description": "",
   "dependencies": {
-    "mongoose": "^5.4.3",
+    "mongoose": "^5.4.3", //major version.minor version.patch version
     "underscore": "^1.9.1"
   }
 }
